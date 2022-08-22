@@ -18,7 +18,7 @@ class IconText extends StatelessWidget {
           color: color,
         ),
         SizedBox(
-          width: 5,
+          width: 3,
         ),
         SmallText(text: text, size: 12)
       ],
